@@ -23,3 +23,9 @@ if c == "/":
     else:
         d = (a / b)
         print(f"Результат ділення {a} на {b} -> {d} ")
+#git init
+#git add *
+#git commit -m "first commit"
+#git branch -M main
+#git remote add origin https://github.com/danchik/mydzpython.git
+#git push -u origin main
